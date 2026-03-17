@@ -1,5 +1,7 @@
 # captive-portal-security-analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19061528.svg)](https://doi.org/10.5281/zenodo.19061528)
+
 Security assessment of MAC-based captive portal authentication systems. Demonstrates Weak Identity Binding between HTTP authentication (Layer 7) and MAC-based network authorization (Layer 2).
 
 ## Overview
